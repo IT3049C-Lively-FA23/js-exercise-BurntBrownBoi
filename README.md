@@ -7,19 +7,22 @@
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/assignments/js-exercises/).
 - [x] update the assignment checks above to the correct link. - Done Automatically
 ## Checklist:
-- [ ] update the assignment checks above to the correct link
+- [x] update the assignment checks above to the correct link
 ```md
 - [x] This task is complete.
 ```
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] All Unit tests passed.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 69 automated checks)
 how many points out of 20 do you deserve on this assignment:
+Hopefully a full 20 because I did the thingies in the code I was expected to do in the instructionmabobs(I learned to talk like this from my senior dev at work, he calls it profesional dev talk.) I forgot to do the specific commit asked by the two examples but I did a commit everytime I finished a section so hopefully that isn't too much of an issue, lol.
 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
+I found out that I genuinely forgot parameters existed because I found it interesting that in the strings.js, in "return str.split(splitAt);" you run the parameter through the function for splitting whereas in "return str.toUpperCase();" You just have an independent funtion even though they fall under a similar category of tasks they carry out. It sounds a little confusing when you read my self reflection out loud. Welcome to the neuronal output of a confused front-end dev trying to become a full-stack dev.
 
 ### How long it took you to finish this?
+1.2376 hours. Not bad for sucking at javascript. Actually an improvement on my end so I'm happy with my learning progress!
