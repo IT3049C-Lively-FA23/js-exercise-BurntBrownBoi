@@ -7,7 +7,24 @@
  *    if no number was provided or if the value provided wasn't a number (hint: typeof), return false
  */
 function fizzBuzz(num) {
-  
+  // Check if the input is a valid number
+  if (typeof num !== 'number') {
+    return false;
+  }
+
+  // Check for divisibility
+  if (num % 3 === 0 && num % 5 === 0) {
+    return 'fizzbuzz';
+  }
+  if (num % 3 === 0) {
+    return 'fizz';
+  }
+  if (num % 5 === 0) {
+    return 'buzz';
+  }
+
+  // If none of the conditions are met, then return the number
+  return num;
 }
 
 module.exports = {

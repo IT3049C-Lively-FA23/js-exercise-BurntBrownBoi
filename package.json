@@ -11,7 +11,7 @@
     "test:3": "./node_modules/.bin/jest src/__tests__/3.arrays.js",
     "test:4": "./node_modules/.bin/jest src/__tests__/4.objects.js",
     "test:5": "./node_modules/.bin/jest src/__tests__/5.logicalOperators.js",
-    "test:6": "./node_modules/.bin/jest src/__tests__/6.flowControls.js",
+    "test:6": "./node_modules/.bin/jest src/__tests__/6.flowControl.js",
     "test:7": "./node_modules/.bin/jest src/__tests__/7.equality.js"
   },
   "devDependencies": {
